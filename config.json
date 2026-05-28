@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfetch",
+        "uuid": 8011440,
+        "checksum": "w7jv1j"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
